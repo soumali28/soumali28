@@ -1,5 +1,6 @@
 ### Hi there 👋 I am Soumali.
 
+I am pursing my Btech in Artificial Intelligence and Machine Learning (expected to graduate in 2025).
 <!--
 **soumali28/soumali28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
