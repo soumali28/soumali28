@@ -2,6 +2,9 @@
 
 I am pursing my Btech in Artificial Intelligence and Machine Learning (expected to graduate in 2025) from [Asansol Engineering College](https://aecwb.edu.in/). I am a frontend web developer, enthusiast in ml and learning new technologies.
 
+Contact me:
+
+
 
 
 
