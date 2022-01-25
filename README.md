@@ -10,7 +10,8 @@ I am pursing my Btech in Artificial Intelligence and Machine Learning (expected 
 [![Discord](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com/channels/@me)
 <!-- [![Hashnode Badge](https://img.shields.io/badge/-Hashnode-03a57a?style=flat-square&labelColor=000000&logo=Hashnode&link=https://thepranaygupta.hashnode.dev/)](https://thepranaygupta.hashnode.dev/) -->
 
-
+<!-- My contributions -->
+![snake gif](https://github.com/soumali28/soumali28/blob/output/github-contribution-grid-snake.gif)
 
 
 <!--
