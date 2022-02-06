@@ -14,7 +14,6 @@ I am pursing my Btech in Artificial Intelligence and Machine Learning (expected 
 ## Github stats:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=soumali28)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumali28&theme=tokyonight" />
 
 
 [![Soumali's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=soumali28&theme=xcode)](https://github.com/soumali28)
