@@ -12,7 +12,7 @@ I am pursing my Btech in Artificial Intelligence and Machine Learning (expected 
 
 <!-- My contributions -->
 ## Github stats:
-![Github stats](https://github-readme-stats.vercel.app/api?username=soumali28)
+
 
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumali28&theme=tokyonight" />
