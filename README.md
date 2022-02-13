@@ -21,7 +21,7 @@ I am pursing my Btech in Artificial Intelligence and Machine Learning (expected 
 [![Soumali's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=soumali28&theme=xcode)](https://github.com/soumali28)
 
 
-
+![snake gif](https://github.com/soumali28/soumali28/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **soumali28/soumali28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
