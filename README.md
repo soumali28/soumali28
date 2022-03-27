@@ -12,6 +12,17 @@ I am pursing my Btech in Artificial Intelligence and Machine Learning (expected 
 
 <!-- My contributions -->
 ## Github stats:
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=soumali28&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
+<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=soumali28&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
+</td>
+</tr>
+</table>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thepranaygupta&theme=tokyonight" />
+</p>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=soumali28)
 
 
