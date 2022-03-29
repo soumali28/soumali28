@@ -24,7 +24,7 @@ I am pursing my Btech in Artificial Intelligence and Machine Learning (expected 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumali28&theme=tokyonight" />
 </p>
 
-
+[![Soumali's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=soumali28&theme=xcode)](https://github.com/soumali28)
 
 
 
