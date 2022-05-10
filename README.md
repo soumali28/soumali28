@@ -2,7 +2,7 @@
 
 I am pursing my Btech in Artificial Intelligence and Machine Learning (expected to graduate in 2025) from [Asansol Engineering College](https://aecwb.edu.in/). I am a frontend web developer, enthusiast in ml and learning new technologies.
 
-## Contact me:
+
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:goraisoumali5@gmail.com)](mailto:goraisoumali5@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/soumali-gorai-566b01220/)](https://www.linkedin.com/in/soumali-gorai-566b01220/)
