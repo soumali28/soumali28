@@ -29,7 +29,6 @@ I am pursing my Btech in Artificial Intelligence and Machine Learning (expected 
 <br />
 <br />
 
-
 <!-- My contributions -->
 ## Github stats:
 <table>
