@@ -1,6 +1,6 @@
-# Hi there 👋 I am Soumali.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=F74C4C&width=435&lines=Hi+%F0%9F%91%8B%2C+I+am+Soumali.;A+developer+%26+a+veteran+swiftie)](https://git.io/typing-svg)
 
-I am pursing my Btech in Artificial Intelligence and Machine Learning (expected to graduate in 2025) from [Asansol Engineering College](https://aecwb.edu.in/). I am a full stack web developer, enthusiast in ml and learning new technologies.
+I am pursing my Btech in Artificial Intelligence and Machine Learning  👩‍💻  (expected to graduate in 2025) from [Asansol Engineering College](https://aecwb.edu.in/). I am a full stack web developer, freelancer & open source advocate who's enthusiastic in ml and learning new technologies.
 
 ## Contact me:
 
@@ -33,21 +33,45 @@ I am pursing my Btech in Artificial Intelligence and Machine Learning (expected 
 <br />
 <br />
 
-<!-- My contributions -->
+<!--  Projects -->
+#### 🚀My projects
+(includes freelance work too)
+- [United HOPE Foundation](https://www.uhfindia.org/) - An Ngo website
+- [Himalayan Dreamtreks](https://himalayandreamtreks.in/) - A travel website with booking facilities
+- [Create memes](https://createyourownmeme.netlify.app/) - A website to create custom memes from images fetched from the api
+- [Aec coding club](https://testaeccc.web.app/) - A college club website
+
+<!-- Open Source contributions -->
+
+
+<!-- Github Stats -->
 ## Github stats:
+
 <table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=soumali28&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight"/>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=soumali28&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
-</td>
-</tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soumali28&theme=tokyonight"/>
+    </td>
+     <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soumali28&theme=tokyonight"/>
+    </td>
+  </tr>
+  
+  <tr>
+      <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=soumali28&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=tokyonight" />
+    </td>
+    <td>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=soumali28&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+    </td>
+  </tr>
+  
 </table>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumali28&theme=tokyonight" />
 </p>
-
-[![Soumali's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=soumali28&theme=xcode)](https://github.com/soumali28)
+<!-- 
+[![Soumali's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=soumali28&theme=xcode)](https://github.com/soumali28) -->
 
 ![](https://komarev.com/ghpvc/?username=soumali28&label=VIEWS&color=blueviolet)
 
