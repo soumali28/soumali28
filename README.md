@@ -51,7 +51,7 @@ I am pursing my Btech in Artificial Intelligence and Machine Learning  👩‍�
 <!-- Open Source contributions -->
 
 
-<!-- Github Stats -->
+<!-- Github Stats 
 ## Github stats:
 
 <table>
@@ -79,7 +79,7 @@ I am pursing my Btech in Artificial Intelligence and Machine Learning  👩‍�
 </p>
 <!-- 
 [![Soumali's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=soumali28&theme=xcode)](https://github.com/soumali28) -->
-
-![](https://komarev.com/ghpvc/?username=soumali28&label=VIEWS&color=blueviolet)
+<!--
+![](https://komarev.com/ghpvc/?username=soumali28&label=VIEWS&color=blueviolet) -->
 
 
