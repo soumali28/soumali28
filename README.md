@@ -35,7 +35,7 @@ I am pursing my Btech in Artificial Intelligence and Machine Learning  👩‍�
 
 <!-- Experience -->
 ### 👩🏻‍💻 Experience
-🟢 SDE Intern in YubiHealth Inc - Arizona, Usa
+🔴 SDE Intern in YubiHealth Inc - Arizona, Usa
 
 🔴 Full Stack Intern in Prachar More - Kolkata, India
 
