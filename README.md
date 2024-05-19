@@ -37,6 +37,8 @@ I am pursing my Btech in Artificial Intelligence and Machine Learning  👩‍�
 
 <!-- Experience -->
 ### 👩🏻‍💻 Experience
+🔴 Frontend Intern in HyperlyAi(Stealth Startup) - Bangalore, India
+
 🔴 SDE Intern in YubiHealth Inc - Arizona, Usa
 
 🔴 Full Stack Intern in Prachar More - Kolkata, India
@@ -49,7 +51,7 @@ I am pursing my Btech in Artificial Intelligence and Machine Learning  👩‍�
 - [Himalayan Dreamtreks](https://himalayandreamtreks.in/) - A travel website with booking facilities
 - [Create memes](https://createyourownmeme.netlify.app/) - A website to create custom memes from images fetched from the api
 - [Aec coding club](https://testaeccc.web.app/) - A college club website
-
+  
 <!-- Open Source contributions -->
 
 
