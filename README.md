@@ -79,6 +79,10 @@ I am pursing my Btech in Artificial Intelligence and Machine Learning  👩‍�
   </tr>
   
 </table>
+
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=soumali28&label=Profile%20views&color=0e75b6&style=flat" alt="soumali28" /> </p>
+<p>
 <!-- <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumali28&theme=tokyonight" />
 </p> -->
