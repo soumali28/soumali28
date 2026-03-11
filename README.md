@@ -37,6 +37,9 @@ I am pursing my Btech in Artificial Intelligence and Machine Learning  👩‍�
 
 <!-- Experience -->
 ### 👩🏻‍💻 Experience
+
+🟢 Founding Engineer in Pipeline AI - California, Usa 
+
 🔴 Frontend Intern in HyperlyAi(Stealth Startup) - Bangalore, India
 
 🔴 SDE Intern in YubiHealth Inc - Arizona, Usa
