@@ -49,7 +49,8 @@ I am pursing my Btech in Artificial Intelligence and Machine Learning  👩‍�
 <!--  Projects -->
 ### 🚀 My projects
 (includes freelance work too)
-- [United HOPE Foundation](https://www.uhfindia.org/) - An Ngo website
+- [Granite & Grove Inc.](https://ggadvisors.ca) - A Financial advisory application 
+- [United HOPE Foundation](https://www.uhfindia.org/) - A Ngo webapp with donation support
 - [Manjeet Kaur Org](https://manjeetkaur-frontend.vercel.app/) - A Ngo website
 - [Himalayan Dreamtreks](https://himalayandreamtreks.in/) - A travel website with booking facilities
 - [Create memes](https://createyourownmeme.netlify.app/) - A website to create custom memes from images fetched from the api
